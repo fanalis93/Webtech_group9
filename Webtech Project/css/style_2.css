@@ -305,7 +305,7 @@ transition: 0.3s;
 }
 .products_ptext{
   position:absolute;
-  top:8%;
+  top:3%;
   width:100%;
   text-align:center;
   color:#000;
@@ -339,7 +339,7 @@ transition: 0.3s;
 }
 .how_ptext{
   position:absolute;
-  top:7%;
+  top:2%;
   width:100%;
   text-align:center;
   color:#000;
@@ -361,7 +361,7 @@ transition: 0.3s;
 }
 .contact_ptext{
   position:absolute;
-  top:13%;
+  top:6%;
   width:100%;
   text-align:center;
   color:#000;
@@ -779,6 +779,7 @@ background: linear-gradient(to right, #BEBEBE, #000); /* W3C, IE 10+/ Edge, Fire
   text-align: center;
   padding-bottom: 5px;
 }
+
 #myBtn {
   display: none;
   position: fixed;
